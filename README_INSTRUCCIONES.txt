@@ -1,6 +1,7 @@
-LECTIA 2.1 - CORRECCIÓN DE CUENTOS
+LECTIA 2.2 — REPRODUCTOR DE LECTURA PROGRESIVA
 
-Incluye 14 láminas originales completas del Word que enviaste (con preguntas y vocabulario) y los 20 cuentos nuevos completos de la segunda etapa.
-IMPORTANTE: las lecturas progresivas de la primera etapa todavía muestran los textos breves antiguos; NO son transcripciones completas. Las láminas sí permiten leer el cuento íntegro. No se incluyen las láminas que no estaban en el Word.
+Incluye botón 🎬 Reproducir como video: muestra palabras acumulándose por oración, similar al video de referencia. Tiene pausa, velocidad, siguiente/anterior y pantalla completa.
 
-Sube TODOS los archivos descomprimidos a la raíz del repositorio GitHub y confirma Commit changes. Espera la publicación y recarga.
+IMPORTANTE: los 20 cuentos nuevos de la segunda etapa se reproducen con el texto completo existente. Los primeros cuentos todavía usan textos breves en modo video: sus 14 láminas originales se conservan como imágenes, pero NO están transcritas. Se requiere transcripción para que el video coincida exactamente con las láminas.
+
+Sube TODOS los archivos de este ZIP a la raíz del repositorio GitHub, reemplazando los antiguos.
